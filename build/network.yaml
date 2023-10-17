@@ -122,9 +122,9 @@ network:
       # Kubernetes cluster deployment variables. The config file path and name has to be provided in case
       # the cluster has already been created.
       k8s:
-        region: "cluster_region"
-        context: "minikube"
-        config_file: "/home/bevel/build/config"
+        region: "westeurope"
+        context: "hlf-k8"
+        config_file: "/home/anu/Desktop/hf_bevel/bevel/build/config"
 
       # Hashicorp Vault server address and root-token. Vault should be unsealed.
       # Do not check-in root_token
@@ -195,9 +195,9 @@ network:
       # Kubernetes cluster deployment variables. The config file path and name has to be provided in case
       # the cluster has already been created.
       k8s:
-        region: "cluster_region"
-        context: "minikube"
-        config_file: "/home/bevel/build/config"
+        region: "westeurope"
+        context: "hlf-k8"
+        config_file: "/home/anu/Desktop/hf_bevel/bevel/build/config"
 
       # Hashicorp Vault server address and root-token. Vault should be unsealed.
       # Do not check-in root_token
@@ -295,9 +295,9 @@ network:
       # Kubernetes cluster deployment variables. The config file path and name has to be provided in case
       # the cluster has already been created.
       k8s:
-        region: "cluster_region"
-        context: "minikube"
-        config_file: "/home/bevel/build/config"
+        region: "westeurope"
+        context: "hlf-k8"
+        config_file: "/home/anu/Desktop/hf_bevel/bevel/build/config"
 
       # Hashicorp Vault server address and root-token. Vault should be unsealed.
       # Do not check-in root_token
